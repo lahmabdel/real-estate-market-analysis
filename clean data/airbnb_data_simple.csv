@@ -1,0 +1,709 @@
+,type,nom_commune,code_departement,prix,numberOfGuests,rating
+0,Room,Paris 20e Arrondissement,75,992,2,4.5
+1,Room,Fontenay-sous-Bois,94,962,2,4.5
+2,Entire Home,Chennevières-sur-Marne,94,668,15,5.0
+3,Room,Paris 18e Arrondissement,75,906,1,4.5
+4,Room,Paris 13e Arrondissement,75,590,2,4.5
+5,Entire Home,Chennevières-sur-Marne,94,684,12,5.0
+6,Room,Paris 10e Arrondissement,75,991,2,4.5
+7,Entire Home,Paris 11e Arrondissement,75,736,16,5.0
+8,Room,Épinay-sur-Seine,93,548,2,4.5
+9,Room,Paris 10e Arrondissement,75,991,2,4.0
+10,Room,Paris 10e Arrondissement,75,991,3,4.5
+11,Room,Paris 18e Arrondissement,75,992,4,4.5
+12,Room,Paris 15e Arrondissement,75,646,2,4.5
+13,Room,Paris 10e Arrondissement,75,991,3,4.5
+14,Entire Home,Paris 10e Arrondissement,75,991,4,4.5
+15,Entire Home,Paris 16e Arrondissement,75,872,2,4.5
+16,Entire Home,Paris 17e Arrondissement,75,702,2,4.5
+17,Room,Paris 16e Arrondissement,75,555,3,4.5
+18,Room,Paris 11e Arrondissement,75,595,3,4.5
+19,Room,Paris 9e Arrondissement,75,624,4,4.5
+20,Room,Gentilly,94,555,8,4.5
+21,Room,Paris 16e Arrondissement,75,1141,1,4.5
+22,Room,Paris 5e Arrondissement,75,654,2,4.5
+23,Entire Home,Paris 19e Arrondissement,75,1200,8,4.5
+24,Entire Home,Paris 16e Arrondissement,75,695,2,5.0
+25,Room,Paris 15e Arrondissement,75,666,4,4.5
+26,Room,Paris 5e Arrondissement,75,679,2,5.0
+27,Entire Home,Suresnes,92,1019,2,4.5
+28,Room,Paris 16e Arrondissement,75,721,2,4.5
+29,Entire Home,Nogent-sur-Marne,94,1358,5,4.5
+30,Entire Home,Rosny-sous-Bois,93,1132,2,4.5
+31,Entire Home,Clamart,92,1178,4,4.5
+32,Room,Paris 8e Arrondissement,75,849,4,4.5
+33,Room,Paris 3e Arrondissement,75,611,2,4.5
+34,Room,Paris 9e Arrondissement,75,1433,4,4.5
+35,Room,Paris 10e Arrondissement,75,1075,2,4.5
+36,Entire Home,Bonneuil-sur-Marne,94,1059,16,4.5
+37,Entire Home,Clamart,92,1390,16,4.5
+38,Room,Paris 16e Arrondissement,75,1190,6,4.5
+39,Room,Paris 8e Arrondissement,75,984,2,4.5
+40,Room,Paris 7e Arrondissement,75,784,2,4.5
+41,Room,Paris 3e Arrondissement,75,666,2,4.5
+42,Entire Home,Cormeilles-en-Parisis,95,1564,10,4.5
+43,Room,Paris 7e Arrondissement,75,1379,2,4.5
+44,Room,Paris 6e Arrondissement,75,535,4,4.5
+45,Room,Paris 8e Arrondissement,75,1041,4,4.5
+46,Room,Paris 16e Arrondissement,75,816,2,4.5
+47,Room,Paris 16e Arrondissement,75,826,2,4.5
+48,Room,Paris 18e Arrondissement,75,1095,3,4.5
+49,Entire Home,Bagneux,92,1309,16,5.0
+50,Room,Paris 8e Arrondissement,75,814,4,4.5
+51,Room,Paris 7e Arrondissement,75,783,4,4.5
+52,Room,Paris 8e Arrondissement,75,1140,4,4.5
+53,Room,Paris 8e Arrondissement,75,1176,2,4.5
+54,Room,Paris 4e Arrondissement,75,1170,4,4.5
+55,Entire Home,Malakoff,92,1081,16,5.0
+56,Entire Home,Paris 8e Arrondissement,75,1116,4,4.5
+57,Entire Home,Puteaux,92,1461,10,5.0
+58,Entire Home,Paris 9e Arrondissement,75,1381,10,5.0
+59,Entire Home,Paris 15e Arrondissement,75,1414,12,5.0
+60,Room,Paris 1er Arrondissement,75,633,2,4.5
+61,Room,Paris 8e Arrondissement,75,547,2,4.5
+62,Room,Paris 5e Arrondissement,75,618,2,4.5
+63,Room,Paris 2e Arrondissement,75,513,3,4.5
+64,Room,Paris 8e Arrondissement,75,595,2,4.5
+65,Room,Paris 8e Arrondissement,75,519,4,5.0
+66,Room,Paris 8e Arrondissement,75,528,4,4.5
+67,Room,Paris 9e Arrondissement,75,574,4,4.5
+68,Room,Paris 8e Arrondissement,75,883,4,4.5
+69,Room,Paris 3e Arrondissement,75,579,2,5.0
+70,Room,Paris 16e Arrondissement,75,590,2,4.5
+71,Room,Paris 9e Arrondissement,75,588,5,4.5
+72,Room,Paris 8e Arrondissement,75,559,4,4.5
+73,Room,Paris 9e Arrondissement,75,556,2,4.5
+74,Room,Paris 6e Arrondissement,75,897,16,4.5
+75,Room,Paris 10e Arrondissement,75,624,2,5.0
+76,Room,Paris 4e Arrondissement,75,635,4,4.5
+77,Entire Home,Paris 19e Arrondissement,75,851,6,4.5
+78,Room,Paris 5e Arrondissement,75,546,4,4.5
+79,Entire Home,Paris 11e Arrondissement,75,662,6,4.5
+80,Room,Paris 15e Arrondissement,75,614,2,4.5
+81,Room,Paris 3e Arrondissement,75,798,4,5.0
+82,Entire Home,Paris 8e Arrondissement,75,655,6,5.0
+83,Room,Paris 1er Arrondissement,75,572,2,4.5
+84,Entire Home,Paris 3e Arrondissement,75,895,10,5.0
+85,Entire Home,Paris 10e Arrondissement,75,660,6,5.0
+86,Entire Home,Paris 8e Arrondissement,75,2410,12,4.5
+87,Room,Paris 7e Arrondissement,75,1984,2,4.5
+88,Room,Paris 7e Arrondissement,75,1984,2,4.5
+89,Room,Paris 7e Arrondissement,75,1984,2,4.5
+90,Entire Home,Argenteuil,95,1515,10,4.5
+91,Room,Paris 8e Arrondissement,75,1959,2,4.5
+92,Entire Home,Le Plessis-Trévise,94,2490,9,5.0
+93,Entire Home,Yerres,91,2288,16,5.0
+94,Room,Paris 1er Arrondissement,75,644,5,4.5
+95,Entire Home,Longjumeau,91,3984,3,4.5
+96,Entire Home,Soisy-sur-Seine,91,3489,13,4.5
+97,Others,Puteaux,92,355,2,5.0
+98,Room,Paris 8e Arrondissement,75,286,2,5.0
+99,Room,Paris 8e Arrondissement,75,274,2,5.0
+100,Room,Paris 17e Arrondissement,75,281,2,5.0
+101,Room,Paris 8e Arrondissement,75,262,2,4.5
+102,Room,Paris 10e Arrondissement,75,320,3,4.0
+103,Room,Paris 8e Arrondissement,75,427,2,4.5
+104,Entire Home,Paris 7e Arrondissement,75,329,4,4.5
+105,Room,Paris 9e Arrondissement,75,502,2,4.5
+106,Room,Paris 17e Arrondissement,75,396,2,4.5
+107,Room,Paris 6e Arrondissement,75,445,2,4.5
+108,Room,Paris 11e Arrondissement,75,267,2,4.5
+109,Room,Paris 13e Arrondissement,75,284,3,4.5
+110,Room,Paris 8e Arrondissement,75,463,2,4.5
+111,Room,Paris 9e Arrondissement,75,383,3,5.0
+112,Entire Home,Paris 4e Arrondissement,75,362,4,1.5
+113,Room,Paris 9e Arrondissement,75,342,2,4.0
+114,Room,Paris 15e Arrondissement,75,323,2,4.5
+115,Room,Paris 2e Arrondissement,75,269,2,4.0
+116,Room,Paris 14e Arrondissement,75,322,2,4.5
+117,Room,Paris 1er Arrondissement,75,349,2,4.5
+118,Room,Paris 15e Arrondissement,75,327,2,4.5
+119,Room,Paris 15e Arrondissement,75,428,6,4.5
+120,Room,Paris 8e Arrondissement,75,397,1,4.5
+121,Room,Paris 6e Arrondissement,75,287,2,4.5
+122,Room,Paris 2e Arrondissement,75,336,2,4.5
+123,Room,Paris 10e Arrondissement,75,386,1,4.5
+124,Room,Paris 1er Arrondissement,75,419,2,5.0
+125,Room,Paris 4e Arrondissement,75,262,2,4.0
+126,Room,Paris 6e Arrondissement,75,353,2,4.5
+127,Room,Paris 15e Arrondissement,75,273,2,4.5
+128,Room,Paris 8e Arrondissement,75,393,2,4.5
+129,Room,Paris 5e Arrondissement,75,466,4,4.5
+130,Room,Paris 8e Arrondissement,75,316,2,4.5
+131,Room,Paris 10e Arrondissement,75,271,2,4.5
+132,Room,Paris 18e Arrondissement,75,374,2,4.5
+133,Room,Paris 8e Arrondissement,75,452,2,4.5
+134,Room,Paris 8e Arrondissement,75,398,2,4.5
+135,Room,Paris 3e Arrondissement,75,266,2,4.5
+136,Room,Paris 17e Arrondissement,75,268,2,4.5
+137,Room,Paris 16e Arrondissement,75,416,4,4.5
+138,Room,Paris 17e Arrondissement,75,268,2,4.5
+139,Room,Paris 10e Arrondissement,75,317,3,4.5
+140,Room,Paris 6e Arrondissement,75,336,2,4.5
+141,Room,Paris 17e Arrondissement,75,396,2,4.5
+142,Room,Paris 15e Arrondissement,75,338,2,4.5
+143,Room,Paris 8e Arrondissement,75,406,2,4.5
+144,Room,Paris 1er Arrondissement,75,338,2,4.0
+145,Room,Paris 17e Arrondissement,75,491,4,4.5
+146,Room,Paris 9e Arrondissement,75,366,2,4.5
+147,Room,Paris 2e Arrondissement,75,380,2,4.5
+148,Room,Paris 5e Arrondissement,75,382,2,4.5
+149,Room,Paris 1er Arrondissement,75,371,2,4.5
+150,Room,Paris 18e Arrondissement,75,441,2,4.5
+151,Room,Paris 1er Arrondissement,75,478,2,4.5
+152,Room,Paris 18e Arrondissement,75,508,2,4.5
+153,Room,Saint-Cloud,92,329,2,4.5
+154,Room,Paris 8e Arrondissement,75,425,2,4.5
+155,Room,Paris 1er Arrondissement,75,433,2,4.5
+156,Room,Paris 9e Arrondissement,75,369,2,4.5
+157,Room,Paris 5e Arrondissement,75,279,2,4.5
+158,Room,Paris 9e Arrondissement,75,491,2,4.5
+159,Room,Paris 10e Arrondissement,75,297,4,4.5
+160,Room,Paris 1er Arrondissement,75,378,2,4.5
+161,Room,Paris 1er Arrondissement,75,458,2,4.5
+162,Room,Paris 14e Arrondissement,75,350,2,4.5
+163,Room,Paris 12e Arrondissement,75,359,4,5.0
+164,Room,Paris 14e Arrondissement,75,283,4,4.5
+165,Room,Paris 1er Arrondissement,75,435,2,4.5
+166,Room,Paris 4e Arrondissement,75,329,2,4.5
+167,Room,Paris 8e Arrondissement,75,356,2,4.5
+168,Room,Paris 7e Arrondissement,75,389,2,4.5
+169,Room,Paris 2e Arrondissement,75,320,2,4.5
+170,Room,Paris 10e Arrondissement,75,274,4,4.5
+171,Room,Paris 8e Arrondissement,75,415,2,4.5
+172,Room,Paris 16e Arrondissement,75,410,2,4.5
+173,Room,Paris 6e Arrondissement,75,447,2,4.5
+174,Room,Paris 1er Arrondissement,75,369,2,4.5
+175,Room,Paris 5e Arrondissement,75,276,1,4.5
+176,Room,Paris 8e Arrondissement,75,443,2,4.5
+177,Room,Paris 6e Arrondissement,75,336,2,4.5
+178,Room,Paris 9e Arrondissement,75,505,3,4.5
+179,Room,Paris 16e Arrondissement,75,298,2,5.0
+180,Room,Paris 15e Arrondissement,75,391,2,4.5
+181,Room,Paris 2e Arrondissement,75,290,3,4.5
+182,Room,Paris 9e Arrondissement,75,376,2,4.5
+183,Others,Asnières-sur-Seine,92,348,2,5.0
+184,Room,Paris 9e Arrondissement,75,465,3,4.5
+185,Room,Paris 8e Arrondissement,75,395,1,4.5
+186,Entire Home,Paris 18e Arrondissement,75,386,4,4.5
+187,Room,Paris 9e Arrondissement,75,423,2,4.5
+188,Entire Home,Maisons-Alfort,94,294,2,5.0
+189,Room,Paris 16e Arrondissement,75,482,3,4.5
+190,Room,Paris 11e Arrondissement,75,395,4,4.5
+191,Entire Home,Paris 19e Arrondissement,75,264,4,4.5
+192,Room,Paris 6e Arrondissement,75,336,2,4.5
+193,Room,Paris 2e Arrondissement,75,270,2,4.5
+194,Room,Paris 9e Arrondissement,75,346,5,4.5
+195,Room,Paris 17e Arrondissement,75,273,3,4.5
+196,Room,Paris 14e Arrondissement,75,285,2,4.5
+197,Room,Paris 9e Arrondissement,75,356,2,4.5
+198,Room,Paris 15e Arrondissement,75,389,4,4.5
+199,Room,Paris 9e Arrondissement,75,290,2,4.0
+200,Room,Paris 5e Arrondissement,75,359,2,4.5
+201,Room,Paris 11e Arrondissement,75,316,3,5.0
+202,Room,Paris 8e Arrondissement,75,330,2,5.0
+203,Room,Paris 9e Arrondissement,75,360,2,4.5
+204,Room,Paris 16e Arrondissement,75,432,2,5.0
+205,Room,Paris 1er Arrondissement,75,307,2,4.5
+206,Entire Home,Ville-d'Avray,92,312,2,5.0
+207,Room,Paris 5e Arrondissement,75,371,2,5.0
+208,Room,Paris 17e Arrondissement,75,380,1,4.5
+209,Room,Paris 14e Arrondissement,75,344,2,4.5
+210,Room,Paris 9e Arrondissement,75,386,2,5.0
+211,Room,Paris 16e Arrondissement,75,400,2,5.0
+212,Entire Home,Paris 9e Arrondissement,75,267,2,4.5
+213,Room,Paris 8e Arrondissement,75,425,2,4.5
+214,Room,Paris 4e Arrondissement,75,286,2,4.5
+215,Entire Home,Paris 4e Arrondissement,75,293,2,4.0
+216,Room,Paris 9e Arrondissement,75,409,3,4.5
+217,Entire Home,Paris 4e Arrondissement,75,327,2,4.0
+218,Room,Paris 8e Arrondissement,75,355,2,5.0
+219,Room,Paris 8e Arrondissement,75,297,3,4.5
+220,Room,Paris 17e Arrondissement,75,436,1,4.5
+221,Room,Paris 5e Arrondissement,75,421,2,4.5
+222,Room,Paris 15e Arrondissement,75,327,2,5.0
+223,Room,Paris 15e Arrondissement,75,337,2,4.5
+224,Room,Paris 17e Arrondissement,75,349,2,4.5
+225,Room,Paris 5e Arrondissement,75,404,2,5.0
+226,Entire Home,Paris 18e Arrondissement,75,335,2,5.0
+227,Room,Paris 17e Arrondissement,75,436,1,5.0
+228,Room,Paris 16e Arrondissement,75,360,4,4.5
+229,Entire Home,Paris 16e Arrondissement,75,470,6,5.0
+230,Room,Paris 8e Arrondissement,75,400,2,4.5
+231,Room,Paris 8e Arrondissement,75,446,2,4.5
+232,Room,Paris 8e Arrondissement,75,378,2,4.5
+233,Room,Paris 16e Arrondissement,75,316,2,4.5
+234,Room,Paris 1er Arrondissement,75,370,2,5.0
+235,Room,Paris 2e Arrondissement,75,344,2,4.5
+236,Room,Paris 1er Arrondissement,75,396,3,4.5
+237,Room,Paris 15e Arrondissement,75,340,2,5.0
+238,Entire Home,Paris 12e Arrondissement,75,334,2,5.0
+239,Room,Paris 3e Arrondissement,75,297,2,5.0
+240,Room,Paris 5e Arrondissement,75,493,2,4.5
+241,Room,Paris 9e Arrondissement,75,323,2,5.0
+242,Room,Paris 8e Arrondissement,75,268,1,3.5
+243,Room,Paris 9e Arrondissement,75,410,3,5.0
+244,Room,Paris 5e Arrondissement,75,290,2,4.5
+245,Room,Paris 3e Arrondissement,75,491,2,5.0
+246,Room,Paris 8e Arrondissement,75,436,2,4.5
+247,Entire Home,Courbevoie,92,340,5,5.0
+248,Room,Paris 16e Arrondissement,75,336,2,5.0
+249,Room,Paris 4e Arrondissement,75,405,3,4.5
+250,Room,Paris 2e Arrondissement,75,262,2,4.5
+251,Room,Paris 3e Arrondissement,75,286,2,4.5
+252,Room,Paris 15e Arrondissement,75,366,2,4.5
+253,Room,Paris 15e Arrondissement,75,304,2,4.5
+254,Room,Paris 9e Arrondissement,75,340,2,5.0
+255,Room,Paris 11e Arrondissement,75,266,2,5.0
+256,Room,Paris 1er Arrondissement,75,426,2,4.5
+257,Room,Paris 9e Arrondissement,75,380,2,4.0
+258,Room,Paris 9e Arrondissement,75,302,2,4.5
+259,Room,Paris 5e Arrondissement,75,349,2,5.0
+260,Room,Paris 7e Arrondissement,75,387,2,5.0
+261,Room,Paris 2e Arrondissement,75,447,3,5.0
+262,Room,Paris 9e Arrondissement,75,469,2,5.0
+263,Entire Home,Paris 11e Arrondissement,75,441,4,4.5
+264,Entire Home,Paris 2e Arrondissement,75,462,6,4.5
+265,Entire Home,Paris 16e Arrondissement,75,359,2,4.5
+266,Entire Home,Paris 2e Arrondissement,75,307,4,4.5
+267,Room,Paris 9e Arrondissement,75,302,4,4.5
+268,Room,Paris 1er Arrondissement,75,356,2,4.5
+269,Room,Paris 3e Arrondissement,75,334,2,4.5
+270,Room,Paris 10e Arrondissement,75,329,2,4.5
+271,Room,Paris 6e Arrondissement,75,491,4,5.0
+272,Room,Paris 9e Arrondissement,75,286,2,5.0
+273,Room,Paris 16e Arrondissement,75,277,2,4.5
+274,Room,Paris 1er Arrondissement,75,327,2,4.5
+275,Entire Home,Paris 2e Arrondissement,75,307,4,4.0
+276,Room,Paris 6e Arrondissement,75,467,2,4.5
+277,Room,Paris 15e Arrondissement,75,330,2,4.5
+278,Entire Home,Paris 9e Arrondissement,75,416,8,4.5
+279,Room,Paris 7e Arrondissement,75,335,2,4.5
+280,Room,Paris 5e Arrondissement,75,345,2,5.0
+281,Room,Paris 1er Arrondissement,75,344,2,5.0
+282,Room,Paris 8e Arrondissement,75,386,2,5.0
+283,Room,Paris 8e Arrondissement,75,292,2,5.0
+284,Room,Paris 14e Arrondissement,75,272,2,5.0
+285,Room,Paris 8e Arrondissement,75,313,4,5.0
+286,Entire Home,Paris 4e Arrondissement,75,467,2,4.5
+287,Room,Paris 5e Arrondissement,75,336,2,5.0
+288,Entire Home,Paris 16e Arrondissement,75,418,4,4.5
+289,Room,Paris 2e Arrondissement,75,377,2,5.0
+290,Room,Paris 7e Arrondissement,75,435,2,5.0
+291,Entire Home,Paris 8e Arrondissement,75,369,4,4.5
+292,Room,Paris 9e Arrondissement,75,262,2,5.0
+293,Room,Paris 8e Arrondissement,75,341,2,5.0
+294,Room,Paris 7e Arrondissement,75,302,2,4.5
+295,Entire Home,Paris 2e Arrondissement,75,497,8,5.0
+296,Entire Home,Paris 1er Arrondissement,75,484,6,4.5
+297,Room,Paris 5e Arrondissement,75,327,2,5.0
+298,Room,Paris 2e Arrondissement,75,377,2,5.0
+299,Entire Home,Paris 2e Arrondissement,75,502,4,4.5
+300,Entire Home,Paris 5e Arrondissement,75,397,4,5.0
+301,Entire Home,Paris 2e Arrondissement,75,317,4,4.5
+302,Entire Home,Paris 6e Arrondissement,75,382,4,4.5
+303,Entire Home,Paris 15e Arrondissement,75,509,4,5.0
+304,Room,Paris 10e Arrondissement,75,991,2,4.0
+305,Room,Paris 10e Arrondissement,75,991,2,4.5
+306,Room,Paris 16e Arrondissement,75,744,2,4.5
+307,Room,Paris 10e Arrondissement,75,1190,2,4.5
+308,Room,Paris 11e Arrondissement,75,99,4,5.0
+309,Entire Home,Saint-Denis,93,46,1,5.0
+310,Room,Paris 20e Arrondissement,75,74,1,4.5
+311,Entire Home,Pantin,93,90,2,4.5
+312,Room,Choisy-le-Roi,94,72,2,4.5
+313,Room,Paris 19e Arrondissement,75,122,1,4.5
+314,Room,Courbevoie,92,57,1,4.5
+315,Entire Home,Neuilly-Plaisance,93,89,2,5.0
+316,Entire Home,Puteaux,92,110,2,4.5
+317,Room,Paris 19e Arrondissement,75,46,1,4.0
+318,Room,Issy-les-Moulineaux,92,118,1,4.5
+319,Room,Bois-Colombes,92,45,1,5.0
+320,Entire Home,Créteil,94,119,2,5.0
+321,Room,Paris 19e Arrondissement,75,122,1,4.5
+322,Entire Home,Noisy-le-Grand,93,61,1,5.0
+323,Room,Paris 19e Arrondissement,75,49,1,4.0
+324,Room,Asnières-sur-Seine,92,45,1,5.0
+325,Room,Athis-Mons,91,51,2,4.0
+326,Entire Home,Jouy-en-Josas,78,91,2,5.0
+327,Room,Colombes,92,40,1,5.0
+328,Room,Colombes,92,64,1,4.5
+329,Entire Home,Montgeron,91,77,4,5.0
+330,Entire Home,Villebon-sur-Yvette,91,63,1,5.0
+331,Room,Paris 8e Arrondissement,75,341,2,4.5
+332,Room,Charenton-le-Pont,94,199,2,5.0
+333,Room,Rueil-Malmaison,92,75,2,5.0
+334,Entire Home,Saint-Denis,93,163,4,4.5
+335,Room,Rungis,94,60,1,5.0
+336,Room,Gagny,93,40,1,5.0
+337,Room,Saint-Denis,93,124,2,4.0
+338,Room,Massy,91,109,2,4.0
+339,Room,Courbevoie,92,130,4,4.5
+340,Entire Home,Orly,94,134,4,4.5
+341,Room,Verrières-le-Buisson,91,68,1,5.0
+342,Room,Nanterre,92,54,1,4.5
+343,Room,Tremblay-en-France,93,90,2,3.5
+344,Room,Bobigny,93,23,1,4.0
+345,Entire Home,Longjumeau,91,107,2,4.5
+346,Entire Home,Arcueil,94,154,4,4.5
+347,Entire Home,Vitry-sur-Seine,94,99,2,4.5
+348,Room,Colombes,92,94,2,5.0
+349,Entire Home,Yerres,91,68,2,4.5
+350,Entire Home,Boulogne-Billancourt,92,204,4,4.5
+351,Entire Home,Massy,91,104,2,4.5
+352,Room,Maisons-Laffitte,78,85,2,4.5
+353,Room,Sarcelles,95,33,2,4.0
+354,Room,Bobigny,93,22,1,4.0
+355,Entire Home,Bezons,95,149,2,5.0
+356,Room,Issy-les-Moulineaux,92,133,2,4.5
+357,Room,Villejuif,94,41,1,4.5
+358,Entire Home,Gennevilliers,92,90,3,4.5
+359,Room,Créteil,94,77,2,4.0
+360,Entire Home,Paray-Vieille-Poste,91,62,2,5.0
+361,Entire Home,Levallois-Perret,92,132,3,4.5
+362,Entire Home,Courbevoie,92,191,6,4.5
+363,Entire Home,Sèvres,92,90,2,4.5
+364,Entire Home,Orly,94,178,2,4.5
+365,Entire Home,Palaiseau,91,29,1,4.5
+366,Entire Home,Argenteuil,95,90,2,5.0
+367,Room,Massy,91,120,3,4.0
+368,Room,Stains,93,75,2,4.5
+369,Entire Home,Jouy-en-Josas,78,83,3,4.5
+370,Entire Home,Vitry-sur-Seine,94,119,2,4.0
+371,Room,Créteil,94,103,2,5.0
+372,Entire Home,Vitry-sur-Seine,94,215,4,4.0
+373,Room,Châtenay-Malabry,92,63,2,5.0
+374,Room,Nanterre,92,149,2,5.0
+375,Room,Choisy-le-Roi,94,79,2,4.5
+376,Room,Villejuif,94,38,1,4.5
+377,Room,Maisons-Alfort,94,121,2,5.0
+378,Entire Home,Bezons,95,57,1,4.5
+379,Room,Villejuif,94,38,2,4.0
+380,Entire Home,Villeneuve-le-Roi,94,121,2,4.5
+381,Entire Home,Saclay,91,58,1,5.0
+382,Entire Home,Le Kremlin-Bicêtre,94,130,3,5.0
+383,Entire Home,Houilles,78,93,3,5.0
+384,Room,Courbevoie,92,127,2,4.5
+385,Room,Nanterre,92,98,2,5.0
+386,Room,Chaville,92,81,1,4.5
+387,Entire Home,Villecresnes,94,47,4,5.0
+388,Entire Home,Argenteuil,95,135,2,5.0
+389,Room,Villejuif,94,40,1,5.0
+390,Entire Home,Chilly-Mazarin,91,80,2,4.5
+391,Room,Villejuif,94,38,1,4.5
+392,Entire Home,Villepinte,93,79,2,5.0
+393,Entire Home,La Courneuve,93,54,1,5.0
+394,Room,Villejuif,94,36,1,4.5
+395,Entire Home,Aulnay-sous-Bois,93,85,2,4.5
+396,Entire Home,Pantin,93,107,2,4.5
+397,Room,Fontenay-aux-Roses,92,68,2,5.0
+398,Room,Issy-les-Moulineaux,92,128,2,4.5
+399,Room,Gennevilliers,92,73,2,5.0
+400,Room,Paris 19e Arrondissement,75,49,1,4.0
+401,Room,Le Pré-Saint-Gervais,93,135,2,4.0
+402,Entire Home,Enghien-les-Bains,95,58,2,4.5
+403,Room,Rueil-Malmaison,92,73,2,5.0
+404,Room,Maisons-Alfort,94,125,2,5.0
+405,Room,Montreuil,93,74,2,5.0
+406,Entire Home,Vincennes,94,341,9,5.0
+407,Room,Paris 16e Arrondissement,75,133,2,4.5
+408,Room,Gentilly,94,71,1,4.5
+409,Entire Home,Argenteuil,95,51,1,4.5
+410,Room,Courbevoie,92,98,2,5.0
+411,Room,Aubervilliers,93,80,4,4.5
+412,Room,Paris 19e Arrondissement,75,46,1,4.0
+413,Room,Paris 15e Arrondissement,75,98,2,5.0
+414,Room,Asnières-sur-Seine,92,118,2,4.0
+415,Room,Villejuif,94,50,1,5.0
+416,Room,Courbevoie,92,102,1,5.0
+417,Room,Paris 19e Arrondissement,75,46,1,4.0
+418,Room,Vélizy-Villacoublay,78,83,2,4.5
+419,Room,Créteil,94,42,3,5.0
+420,Entire Home,Vitry-sur-Seine,94,51,1,4.5
+421,Entire Home,Aulnay-sous-Bois,93,66,2,5.0
+422,Room,Gentilly,94,61,1,4.5
+423,Room,Neuilly-Plaisance,93,108,2,4.5
+424,Entire Home,Arcueil,94,94,3,5.0
+425,Room,Maisons-Alfort,94,49,1,5.0
+426,Room,Saint-Ouen-sur-Seine,93,109,2,5.0
+427,Room,Bois-Colombes,92,119,2,4.5
+428,Room,Paris 19e Arrondissement,75,121,1,4.5
+429,Room,Antony,92,98,2,4.5
+430,Room,Tremblay-en-France,93,62,1,5.0
+431,Room,Paris 19e Arrondissement,75,51,1,5.0
+432,Entire Home,Aulnay-sous-Bois,93,51,1,5.0
+433,Room,Clichy,92,76,1,4.5
+434,Entire Home,Paris 17e Arrondissement,75,147,3,4.5
+435,Room,Paris 13e Arrondissement,75,140,2,5.0
+436,Room,Paris 12e Arrondissement,75,80,1,5.0
+437,Room,Montrouge,92,73,2,5.0
+438,Room,Paris 12e Arrondissement,75,80,1,4.5
+439,Room,Paris 10e Arrondissement,75,67,1,4.5
+440,Room,Paris 15e Arrondissement,75,107,3,5.0
+441,Room,Paris 15e Arrondissement,75,85,2,5.0
+442,Entire Home,Saint-Denis,93,45,1,4.5
+443,Room,Nanterre,92,102,2,4.5
+444,Room,Paris 10e Arrondissement,75,63,1,4.5
+445,Room,Vincennes,94,90,1,4.5
+446,Entire Home,Paris 16e Arrondissement,75,181,2,4.5
+447,Room,Boulogne-Billancourt,92,89,2,4.5
+448,Room,Paris 19e Arrondissement,75,124,2,4.5
+449,Room,Saint-Ouen-sur-Seine,93,43,2,5.0
+450,Room,Paris 15e Arrondissement,75,105,1,5.0
+451,Entire Home,Paris 17e Arrondissement,75,128,1,4.5
+452,Room,Asnières-sur-Seine,92,103,1,4.5
+453,Room,Paris 15e Arrondissement,75,65,1,4.5
+454,Room,Paris 18e Arrondissement,75,135,2,4.5
+455,Entire Home,Paris 2e Arrondissement,75,174,2,4.5
+456,Room,Paris 9e Arrondissement,75,132,1,4.0
+457,Room,Paris 8e Arrondissement,75,132,2,4.5
+458,Room,Paris 18e Arrondissement,75,135,2,4.5
+459,Entire Home,Paris 10e Arrondissement,75,116,1,4.5
+460,Room,Paris 2e Arrondissement,75,169,2,5.0
+461,Room,Paris 15e Arrondissement,75,130,2,4.0
+462,Room,Paris 15e Arrondissement,75,65,1,5.0
+463,Room,Paris 10e Arrondissement,75,134,2,5.0
+464,Room,Pantin,93,50,1,5.0
+465,Room,Paris 16e Arrondissement,75,95,1,4.5
+466,Room,Paris 14e Arrondissement,75,109,1,4.5
+467,Room,Paris 17e Arrondissement,75,132,2,5.0
+468,Room,Paris 18e Arrondissement,75,135,1,4.5
+469,Room,Paris 9e Arrondissement,75,123,1,5.0
+470,Room,Paris 9e Arrondissement,75,134,1,5.0
+471,Room,Paris 9e Arrondissement,75,130,1,5.0
+472,Room,Paris 9e Arrondissement,75,173,1,5.0
+473,Room,Paris 9e Arrondissement,75,145,2,4.5
+474,Room,Paris 8e Arrondissement,75,175,1,5.0
+475,Room,Paris 9e Arrondissement,75,142,1,5.0
+476,Room,Paris 8e Arrondissement,75,217,2,5.0
+477,Room,Paris 15e Arrondissement,75,162,1,5.0
+478,Entire Home,Paris 2e Arrondissement,75,203,2,4.5
+479,Room,Paris 11e Arrondissement,75,213,2,4.5
+480,Room,Paris 9e Arrondissement,75,137,2,5.0
+481,Room,Paris 9e Arrondissement,75,226,2,4.5
+482,Room,Paris 15e Arrondissement,75,232,2,5.0
+483,Room,Paris 4e Arrondissement,75,226,1,4.5
+484,Room,Paris 8e Arrondissement,75,240,2,4.5
+485,Room,Paris 1er Arrondissement,75,204,2,5.0
+486,Room,Paris 2e Arrondissement,75,199,2,4.0
+487,Room,Paris 15e Arrondissement,75,175,2,4.5
+488,Room,Paris 16e Arrondissement,75,237,2,5.0
+489,Room,Paris 15e Arrondissement,75,162,2,4.5
+490,Room,Paris 11e Arrondissement,75,246,2,4.5
+491,Room,Paris 8e Arrondissement,75,149,2,4.5
+492,Room,Paris 9e Arrondissement,75,184,2,4.5
+493,Room,Paris 10e Arrondissement,75,179,1,4.5
+494,Room,Paris 15e Arrondissement,75,143,1,4.5
+495,Room,Paris 10e Arrondissement,75,190,2,4.5
+496,Room,Paris 13e Arrondissement,75,162,2,4.5
+497,Room,Paris 17e Arrondissement,75,232,2,4.5
+498,Room,Paris 1er Arrondissement,75,247,2,4.5
+499,Room,Paris 9e Arrondissement,75,207,2,5.0
+500,Entire Home,Paris 3e Arrondissement,75,229,2,4.0
+501,Room,Paris 6e Arrondissement,75,162,1,4.5
+502,Room,Paris 15e Arrondissement,75,197,2,4.5
+503,Room,Paris 17e Arrondissement,75,185,2,4.5
+504,Room,Paris 17e Arrondissement,75,223,2,4.5
+505,Room,Paris 18e Arrondissement,75,157,1,4.0
+506,Room,Paris 12e Arrondissement,75,223,2,4.5
+507,Room,Paris 18e Arrondissement,75,223,1,4.5
+508,Room,Paris 14e Arrondissement,75,209,2,4.5
+509,Room,Paris 14e Arrondissement,75,140,1,4.5
+510,Entire Home,Paris 3e Arrondissement,75,218,3,3.5
+511,Room,Paris 13e Arrondissement,75,154,2,4.5
+512,Room,Paris 9e Arrondissement,75,188,2,5.0
+513,Room,Paris 13e Arrondissement,75,218,1,4.5
+514,Room,Issy-les-Moulineaux,92,155,1,5.0
+515,Room,Paris 9e Arrondissement,75,196,2,4.5
+516,Room,Paris 10e Arrondissement,75,205,2,4.5
+517,Room,Paris 9e Arrondissement,75,233,2,4.5
+518,Room,Puteaux,92,160,2,4.5
+519,Room,Paris 10e Arrondissement,75,168,3,4.0
+520,Room,Paris 19e Arrondissement,75,181,1,4.5
+521,Room,Paris 11e Arrondissement,75,227,2,4.5
+522,Room,Paris 11e Arrondissement,75,256,2,4.5
+523,Room,Paris 15e Arrondissement,75,197,2,4.5
+524,Room,Paris 8e Arrondissement,75,169,1,4.5
+525,Room,Paris 15e Arrondissement,75,171,2,4.5
+526,Room,Neuilly-sur-Seine,92,178,2,4.5
+527,Room,Paris 18e Arrondissement,75,192,2,4.5
+528,Room,Paris 12e Arrondissement,75,257,2,5.0
+529,Room,Paris 14e Arrondissement,75,185,2,5.0
+530,Room,Ivry-sur-Seine,94,218,2,5.0
+531,Room,Paris 18e Arrondissement,75,232,4,4.0
+532,Room,Paris 17e Arrondissement,75,204,2,4.5
+533,Room,Paris 16e Arrondissement,75,156,1,4.5
+534,Room,Paris 11e Arrondissement,75,226,2,4.5
+535,Room,Paris 20e Arrondissement,75,223,3,4.5
+536,Room,Paris 20e Arrondissement,75,202,2,4.5
+537,Room,Paris 9e Arrondissement,75,196,2,4.5
+538,Room,Paris 14e Arrondissement,75,211,2,4.5
+539,Room,Paris 17e Arrondissement,75,148,2,4.5
+540,Entire Home,Paris 8e Arrondissement,75,217,2,3.5
+541,Room,Paris 15e Arrondissement,75,190,2,3.5
+542,Room,Paris 14e Arrondissement,75,233,2,4.5
+543,Room,Puteaux,92,195,2,4.5
+544,Room,Paris 15e Arrondissement,75,197,2,4.5
+545,Room,Gentilly,94,146,2,4.5
+546,Entire Home,Saint-Ouen-sur-Seine,93,341,4,5.0
+547,Room,Paris 9e Arrondissement,75,228,2,4.5
+548,Room,Paris 18e Arrondissement,75,178,2,4.0
+549,Room,Paris 14e Arrondissement,75,190,2,4.5
+550,Room,Saint-Ouen-sur-Seine,93,140,2,4.5
+551,Room,Paris 20e Arrondissement,75,249,4,4.5
+552,Room,Paris 18e Arrondissement,75,197,2,4.0
+553,Room,Paris 16e Arrondissement,75,247,1,4.5
+554,Room,Paris 4e Arrondissement,75,238,2,2.5
+555,Room,Paris 17e Arrondissement,75,251,2,4.5
+556,Room,Paris 13e Arrondissement,75,231,3,4.5
+557,Room,Issy-les-Moulineaux,92,158,2,4.5
+558,Room,Paris 16e Arrondissement,75,247,2,4.0
+559,Room,Paris 17e Arrondissement,75,224,2,4.5
+560,Entire Home,Paris 18e Arrondissement,75,249,4,4.5
+561,Room,Paris 13e Arrondissement,75,154,1,4.5
+562,Room,Paris 10e Arrondissement,75,258,2,4.0
+563,Room,Paris 9e Arrondissement,75,216,2,4.5
+564,Room,Paris 14e Arrondissement,75,158,2,4.5
+565,Room,Paris 12e Arrondissement,75,205,2,4.5
+566,Room,Paris 13e Arrondissement,75,173,2,4.0
+567,Room,Paris 9e Arrondissement,75,188,1,4.0
+568,Room,Paris 17e Arrondissement,75,229,2,5.0
+569,Entire Home,Paris 17e Arrondissement,75,244,4,5.0
+570,Room,Paris 9e Arrondissement,75,164,1,4.5
+571,Room,Paris 9e Arrondissement,75,177,3,4.5
+572,Room,Clichy,92,179,2,4.5
+573,Entire Home,Paris 14e Arrondissement,75,249,5,4.5
+574,Room,Paris 9e Arrondissement,75,218,2,4.5
+575,Room,Paris 14e Arrondissement,75,222,2,4.5
+576,Room,Paris 14e Arrondissement,75,157,2,4.5
+577,Room,Paris 15e Arrondissement,75,205,2,4.0
+578,Room,Paris 17e Arrondissement,75,240,2,4.5
+579,Room,Paris 12e Arrondissement,75,156,2,4.0
+580,Room,Saint-Cloud,92,209,2,4.5
+581,Entire Home,Paris 3e Arrondissement,75,218,2,4.0
+582,Room,Puteaux,92,151,1,4.5
+583,Entire Home,Paris 1er Arrondissement,75,283,2,5.0
+584,Room,Paris 14e Arrondissement,75,175,2,4.5
+585,Room,Paris 17e Arrondissement,75,153,2,4.5
+586,Room,Paris 11e Arrondissement,75,197,2,4.5
+587,Room,Paris 8e Arrondissement,75,147,2,4.5
+588,Room,Paris 9e Arrondissement,75,259,2,4.5
+589,Room,Paris 9e Arrondissement,75,220,2,5.0
+590,Room,Saint-Cloud,92,189,2,5.0
+591,Entire Home,Maisons-Alfort,94,253,2,5.0
+592,Room,Paris 15e Arrondissement,75,232,2,4.5
+593,Room,Paris 9e Arrondissement,75,137,2,4.0
+594,Room,Paris 18e Arrondissement,75,197,2,5.0
+595,Room,Paris 15e Arrondissement,75,197,2,5.0
+596,Room,Paris 8e Arrondissement,75,240,2,5.0
+597,Room,Paris 14e Arrondissement,75,172,2,4.5
+598,Room,Paris 20e Arrondissement,75,186,2,4.5
+599,Room,Clichy,92,139,2,4.5
+600,Room,Paris 17e Arrondissement,75,205,2,4.5
+601,Room,Paris 9e Arrondissement,75,205,1,4.5
+602,Room,Paris 20e Arrondissement,75,196,2,4.5
+603,Room,Paris 10e Arrondissement,75,227,2,4.0
+604,Room,Paris 11e Arrondissement,75,211,2,4.0
+605,Entire Home,Malakoff,92,142,2,4.5
+606,Room,Paris 11e Arrondissement,75,247,2,4.5
+607,Room,Paris 15e Arrondissement,75,201,3,4.5
+608,Room,Paris 14e Arrondissement,75,223,2,4.0
+609,Room,Paris 6e Arrondissement,75,202,2,4.5
+610,Room,Paris 15e Arrondissement,75,216,2,4.5
+611,Room,Paris 17e Arrondissement,75,243,2,4.5
+612,Room,Paris 17e Arrondissement,75,184,2,4.5
+613,Room,Paris 9e Arrondissement,75,169,2,5.0
+614,Room,Paris 9e Arrondissement,75,163,2,4.5
+615,Room,Paris 9e Arrondissement,75,234,2,4.5
+616,Room,Paris 6e Arrondissement,75,205,2,4.0
+617,Room,Paris 15e Arrondissement,75,190,2,4.5
+618,Room,Paris 9e Arrondissement,75,174,1,4.0
+619,Room,Paris 8e Arrondissement,75,217,2,4.5
+620,Room,Paris 17e Arrondissement,75,218,2,4.5
+621,Entire Home,Boulogne-Billancourt,92,177,2,4.5
+622,Room,Paris 8e Arrondissement,75,247,2,4.5
+623,Room,Paris 17e Arrondissement,75,233,2,4.5
+624,Room,Paris 2e Arrondissement,75,228,2,4.5
+625,Room,Paris 9e Arrondissement,75,204,2,5.0
+626,Room,Paris 20e Arrondissement,75,212,2,4.5
+627,Room,Paris 16e Arrondissement,75,252,2,5.0
+628,Entire Home,Paris 15e Arrondissement,75,249,1,5.0
+629,Room,Paris 12e Arrondissement,75,184,2,4.5
+630,Room,Paris 8e Arrondissement,75,149,2,4.5
+631,Room,Paris 9e Arrondissement,75,137,2,5.0
+632,Room,Paris 18e Arrondissement,75,207,2,4.0
+633,Room,Paris 14e Arrondissement,75,151,2,4.5
+634,Room,Paris 9e Arrondissement,75,237,2,4.5
+635,Room,Paris 18e Arrondissement,75,192,2,4.5
+636,Room,Paris 10e Arrondissement,75,202,2,4.5
+637,Entire Home,Paris 10e Arrondissement,75,248,3,4.5
+638,Room,Paris 15e Arrondissement,75,176,2,4.5
+639,Entire Home,Paris 13e Arrondissement,75,143,1,4.5
+640,Room,Paris 10e Arrondissement,75,238,1,4.5
+641,Room,Paris 9e Arrondissement,75,253,2,4.5
+642,Room,Paris 9e Arrondissement,75,164,1,4.5
+643,Room,Paris 15e Arrondissement,75,228,2,5.0
+644,Entire Home,Paris 9e Arrondissement,75,267,2,4.5
+645,Room,Paris 9e Arrondissement,75,204,1,4.5
+646,Room,Paris 6e Arrondissement,75,179,1,4.5
+647,Room,Paris 12e Arrondissement,75,341,2,4.5
+648,Room,Paris 10e Arrondissement,75,231,1,4.5
+649,Room,Paris 2e Arrondissement,75,209,2,4.5
+650,Room,Paris 5e Arrondissement,75,172,1,4.5
+651,Room,Paris 9e Arrondissement,75,178,2,5.0
+652,Room,Paris 6e Arrondissement,75,179,1,4.5
+653,Room,Paris 3e Arrondissement,75,256,2,4.5
+654,Room,Paris 9e Arrondissement,75,223,2,4.5
+655,Room,Paris 9e Arrondissement,75,205,3,5.0
+656,Room,Paris 9e Arrondissement,75,191,2,5.0
+657,Room,Paris 9e Arrondissement,75,204,2,4.5
+658,Room,Paris 15e Arrondissement,75,151,2,4.5
+659,Room,Paris 15e Arrondissement,75,165,2,4.5
+660,Room,Paris 8e Arrondissement,75,194,3,5.0
+661,Room,Paris 2e Arrondissement,75,209,2,5.0
+662,Room,Paris 2e Arrondissement,75,149,2,5.0
+663,Room,Paris 17e Arrondissement,75,196,2,4.5
+664,Room,Paris 9e Arrondissement,75,145,2,5.0
+665,Room,Paris 5e Arrondissement,75,229,2,4.5
+666,Room,Paris 15e Arrondissement,75,194,2,4.5
+667,Room,Paris 9e Arrondissement,75,188,3,5.0
+668,Room,Paris 9e Arrondissement,75,158,2,4.5
+669,Room,Paris 15e Arrondissement,75,202,1,5.0
+670,Room,Paris 8e Arrondissement,75,195,1,5.0
+671,Room,Paris 8e Arrondissement,75,217,2,5.0
+672,Room,Paris 9e Arrondissement,75,198,2,4.5
+673,Room,Paris 8e Arrondissement,75,151,2,5.0
+674,Room,Paris 9e Arrondissement,75,522,4,5.0
+675,Room,Paris 8e Arrondissement,75,194,2,5.0
+676,Room,Paris 9e Arrondissement,75,149,2,5.0
+677,Room,Paris 3e Arrondissement,75,387,2,4.5
+678,Room,Paris 17e Arrondissement,75,461,2,4.5
+679,Room,Paris 12e Arrondissement,75,430,2,4.5
+680,Room,Paris 7e Arrondissement,75,356,2,4.5
+681,Room,Paris 16e Arrondissement,75,364,2,4.5
+682,Room,Paris 9e Arrondissement,75,465,4,3.5
+683,Room,Paris 6e Arrondissement,75,393,2,4.5
+684,Room,Paris 1er Arrondissement,75,402,2,4.5
+685,Room,Paris 7e Arrondissement,75,405,2,5.0
+686,Room,Paris 9e Arrondissement,75,341,2,5.0
+687,Room,Paris 8e Arrondissement,75,135,1,5.0
+688,Room,Nanterre,92,70,1,5.0
+689,Room,Villejuif,94,42,1,4.5
+690,Entire Home,Les Lilas,93,204,3,4.5
+691,Room,Bonneuil-sur-Marne,94,40,2,4.5
+692,Room,Bures-sur-Yvette,91,84,2,4.5
+693,Entire Home,Longjumeau,91,102,2,4.5
+694,Entire Home,Alfortville,94,94,2,5.0
+695,Room,Paris 8e Arrondissement,75,126,1,4.5
+696,Room,Paris 5e Arrondissement,75,89,1,4.5
+697,Room,Paris 8e Arrondissement,75,118,1,5.0
+698,Room,Paris 9e Arrondissement,75,213,1,4.5
+699,Room,Paris 15e Arrondissement,75,198,2,5.0
+700,Room,Paris 10e Arrondissement,75,258,3,4.5
+701,Room,Paris 9e Arrondissement,75,188,2,4.5
+702,Room,Boulogne-Billancourt,92,149,2,4.5
+703,Room,Paris 9e Arrondissement,75,233,2,5.0
+704,Room,Paris 9e Arrondissement,75,184,1,5.0
+705,Entire Home,Montmorency,95,89,2,4.5
+706,Room,Montreuil,93,90,2,4.5
+707,Entire Home,Paris 2e Arrondissement,75,123,2,4.5

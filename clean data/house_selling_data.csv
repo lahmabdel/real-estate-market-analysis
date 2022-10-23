@@ -1,0 +1,263 @@
+,type_vente,nom_commune,code_departement,prix_vente,nb_pieces,nb_chambres,sbien_m²,sterrain_m²,prix_m²,taxe_fonciere,cuisine_equipee,chauffage_collectif,sejour_cuisine,salle_equipee,ascenseur,cave,chauffage,vitrage,parking,baignoire,balcon,jardin,garage,dressing,approximite_metro,bureau,terrasse
+0,Maison,Les Pavillons-sous-Bois,93,359000,4,2,75,222,4787,-1,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False,False,False
+1,Appartement,Paris 15e Arrondissement,75,750000,3,2,73,0,10274,1155,False,False,False,False,True,True,False,False,True,True,True,False,False,True,True,False,False
+2,Maison,Nanterre,92,550000,3,2,80,209,6875,-1,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+3,Appartement,Paris 11e Arrondissement,75,518000,2,1,44,0,0,511,False,False,False,False,False,True,True,True,False,False,False,False,False,True,True,False,False
+4,Appartement,Alfortville,94,260000,2,1,43,0,6047,-1,False,True,False,False,True,True,True,True,False,True,False,False,False,False,True,False,False
+5,Appartement,Vincennes,94,545000,3,2,55,0,9909,1167,False,True,False,False,True,True,True,True,False,False,False,True,False,False,True,False,False
+6,Appartement,Châtenay-Malabry,92,329000,3,2,56,0,5875,-1,False,False,True,False,True,False,True,False,True,True,False,True,False,False,False,False,False
+7,Appartement,Paris 17e Arrondissement,75,610000,2,1,51,0,11961,-1,False,False,False,False,True,False,True,False,True,False,False,False,False,False,True,False,False
+8,Appartement,Boulogne-Billancourt,92,750000,3,2,83,0,9036,-1,False,False,False,True,True,True,False,True,True,False,False,False,False,True,False,True,False
+9,Maison,Bagneux,92,650000,5,3,122,160,5328,1325,False,False,False,False,True,True,True,True,False,False,False,True,False,False,False,True,True
+10,Appartement,Nogent-sur-Marne,94,200000,2,1,29,0,6897,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+11,Appartement,Paris 16e Arrondissement,75,600000,2,1,52,0,11538,-1,True,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+12,Appartement,Clichy,92,295000,3,2,39,0,7564,270,False,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False
+13,Appartement,Montreuil,93,380000,5,3,100,0,3800,-1,True,False,False,False,True,True,True,False,True,False,True,False,False,True,True,False,False
+14,Appartement,Courbevoie,92,348000,3,2,50,0,6960,-1,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+15,Appartement,Saint-Cloud,92,547000,2,1,64,0,0,-1,False,False,False,True,True,True,False,False,True,False,False,False,False,False,False,False,True
+16,Appartement,Sèvres,92,400000,3,2,65,0,6154,-1,False,False,False,False,True,True,False,True,False,True,False,True,False,False,False,False,False
+17,Appartement,Paris 6e Arrondissement,75,750000,2,1,41,0,18293,-1,False,False,False,False,True,False,True,True,False,False,True,False,False,False,False,False,False
+18,Maison,Clairefontaine-en-Yvelines,78,1160000,10,6,300,30,3867,-1,False,False,False,False,True,False,True,False,False,False,False,False,True,True,False,False,True
+19,Appartement,Suresnes,92,660000,4,3,94,0,0,20221,False,False,False,False,True,True,True,False,True,False,True,False,False,False,False,False,False
+20,Appartement,Valenton,94,130000,2,1,40,0,3250,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+21,Appartement,Paris 17e Arrondissement,75,680000,2,1,47,0,0,800,True,False,False,False,True,True,True,True,False,False,False,True,False,False,False,False,True
+22,Maison,Plaisir,78,475000,5,4,140,533,3393,-1,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,True
+23,Appartement,Paris 16e Arrondissement,75,1110000,4,2,99,0,11212,1800,False,False,False,False,True,True,True,True,False,False,False,False,False,False,True,False,False
+24,Appartement,Paris 11e Arrondissement,75,840000,4,3,83,0,0,-1,False,False,True,False,True,True,False,False,True,True,True,False,False,False,False,True,False
+25,Appartement,Saint-Maur-des-Fossés,94,1580000,6,4,200,0,7900,-1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+26,Appartement,Colombes,92,350000,3,2,57,0,6140,-1,False,False,False,False,True,True,False,True,False,True,False,True,False,True,False,False,False
+27,Appartement,Paris 12e Arrondissement,75,115000,0,0,10,0,0,-1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+28,Appartement,Saint-Cloud,92,410000,3,2,66,0,6212,2022876,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
+29,Maison,Paray-Vieille-Poste,91,610000,6,4,180,380,3389,-1,False,False,False,False,True,False,False,False,True,False,False,False,True,False,False,False,True
+30,Appartement,Levallois-Perret,92,740000,4,3,76,0,9737,-1,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+31,Appartement,Vincennes,94,570000,3,2,72,0,7917,1582,False,False,False,False,True,True,True,True,True,False,False,False,False,True,False,False,False
+32,Appartement,Le Pecq,78,375000,4,2,74,0,5068,-1,False,False,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+33,Appartement,Paris 11e Arrondissement,75,965000,3,2,78,0,12372,780,False,False,False,True,True,True,True,True,False,False,False,False,False,False,False,False,False
+34,Appartement,Paris 18e Arrondissement,75,100000,0,0,10,0,0,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+35,Appartement,Issy-les-Moulineaux,92,328000,2,1,42,0,7810,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+36,Appartement,Paris 19e Arrondissement,75,570000,3,2,69,0,8261,-1,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,True
+37,Maison,Ormesson-sur-Marne,94,614900,7,4,160,465,0,-1,True,False,False,False,True,True,False,True,False,False,False,True,False,False,False,True,True
+38,Appartement,Corbeil-Essonnes,91,129500,2,1,43,0,3012,-1,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+39,Appartement,Puteaux,92,770000,3,2,86,0,8953,-1,False,False,False,False,True,True,True,False,True,False,False,False,False,True,False,True,False
+40,Maison,Morainvilliers,78,650000,7,4,176,384,3693,-1,False,False,False,False,True,True,False,False,True,False,False,True,True,False,False,True,True
+41,Appartement,Boulogne-Billancourt,92,679000,3,2,68,0,9985,-1,False,False,False,False,True,True,True,False,False,True,False,False,False,True,True,False,False
+42,Maison,Fontainebleau,77,660000,5,4,97,127,6804,1568,True,False,False,False,True,False,False,True,False,False,False,True,False,False,False,True,True
+43,Appartement,Paris 17e Arrondissement,75,805000,2,1,71,0,11338,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+44,Appartement,Versailles,78,540000,4,3,94,0,5745,-1,False,False,False,False,True,True,False,True,True,False,False,False,False,True,False,False,False
+45,Maison,Savigny-sur-Orge,91,481000,6,4,135,346,3563,-1,False,False,False,False,True,False,True,False,False,False,False,True,True,False,False,False,True
+46,Maison,Béhoust,78,485000,7,5,190,814,2553,-1,False,False,False,False,True,True,False,False,False,True,False,True,True,True,False,True,True
+47,Appartement,Suresnes,92,772000,5,3,105,0,7352,1762,False,False,False,False,True,True,False,True,True,False,True,False,True,False,False,False,False
+48,Maison,Clichy-sous-Bois,93,445000,6,4,130,560,3423,-1,False,False,False,False,True,False,False,False,False,False,True,False,True,False,False,False,False
+49,Appartement,Marly-le-Roi,78,229000,4,2,68,0,3368,-1,False,False,False,False,False,True,True,True,False,True,True,False,False,True,False,False,True
+50,Maison,Angervilliers,91,420000,6,5,123,430,3415,-1,False,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+51,Appartement,Paris 13e Arrondissement,75,345000,2,1,32,0,10781,510,False,False,True,False,True,True,True,True,False,False,False,False,False,False,False,True,False
+52,Appartement,Boulogne-Billancourt,92,515000,3,2,56,0,9196,-1,False,False,False,False,False,True,False,False,True,True,False,False,False,True,True,False,False
+53,Maison,Saint-Cloud,92,1150000,5,3,134,15,8582,-1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,True,True
+54,Appartement,Vincennes,94,890000,4,3,95,0,9368,-1,False,False,True,False,True,False,False,False,False,False,False,False,True,False,False,False,False
+55,Appartement,Boulogne-Billancourt,92,1550000,6,4,150,0,10333,-1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+56,Appartement,Paris 14e Arrondissement,75,548500,2,1,50,0,10970,-1,True,True,False,False,True,True,True,True,False,False,False,True,False,False,True,False,False
+57,Maison,Conflans-Sainte-Honorine,78,698000,8,4,225,848,3102,3140,False,False,False,False,True,True,True,False,False,True,False,True,False,False,False,False,False
+58,Appartement,Paris 16e Arrondissement,75,650000,2,1,58,0,0,-1,False,True,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False
+59,Appartement,Clichy,92,885000,5,4,108,0,8194,1600,True,True,False,False,True,False,True,True,True,False,True,False,False,False,False,False,False
+60,Appartement,Chaville,92,455000,3,2,70,0,6500,-1,False,True,False,False,True,False,True,True,True,True,False,True,False,False,False,False,False
+61,Appartement,Villejuif,94,545000,4,3,89,0,0,-1,False,False,False,False,True,False,False,False,True,True,True,False,False,True,True,False,False
+62,Appartement,Brétigny-sur-Orge,91,185000,4,3,60,0,3083,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+63,Appartement,La Garenne-Colombes,92,599000,4,2,76,0,7882,968,False,False,False,False,False,True,False,True,True,True,False,True,False,True,False,False,False
+64,Appartement,Saint-Mandé,94,400000,2,1,43,0,9302,-1,True,False,False,False,False,True,True,False,False,False,False,False,False,False,True,False,False
+65,Appartement,Paris 3e Arrondissement,75,850000,3,1,60,0,0,-1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+66,Appartement,Paris 16e Arrondissement,75,210000,0,0,13,0,0,-1,False,False,False,False,True,False,False,False,False,False,False,True,False,True,False,False,False
+67,Appartement,Puteaux,92,995000,6,4,130,0,7654,791,True,False,False,False,True,False,True,True,False,False,False,False,False,False,True,True,False
+68,Appartement,Houilles,78,270000,3,2,70,0,3857,-1,False,False,False,False,True,True,True,True,True,False,False,False,False,False,False,False,False
+69,Appartement,Paris 15e Arrondissement,75,995000,4,3,95,0,10474,1450,False,True,False,False,True,False,True,True,False,False,False,False,False,False,False,True,False
+70,Appartement,Montreuil,93,460000,3,2,70,0,6571,-1,False,False,False,False,True,False,False,False,True,False,False,False,True,False,True,True,False
+71,Maison,Saint-Leu-la-Forêt,95,619000,5,4,132,404,4689,-1,False,False,False,False,True,False,False,False,False,False,False,False,True,True,False,True,True
+72,Appartement,Paris 16e Arrondissement,75,94500,0,0,9,0,0,-1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+73,Maison,Gaillon-sur-Montcient,78,298000,6,4,133,419,2241,-1,False,False,False,False,True,False,False,True,False,False,False,True,True,True,False,True,True
+74,Appartement,Viroflay,78,338000,2,1,46,0,7348,-1,False,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False
+75,Appartement,Aubervilliers,93,390000,4,3,79,0,4937,-1,False,False,False,False,True,False,False,False,True,False,False,False,False,False,True,False,False
+76,Appartement,Bonneuil-sur-Marne,94,205000,2,1,42,0,4881,-1,True,False,True,False,True,False,False,False,True,True,True,False,False,False,True,False,False
+77,Appartement,Vincennes,94,510000,3,2,60,0,8500,-1,False,False,False,False,False,False,False,False,False,False,False,True,False,False,True,True,False
+78,Maison,Champigny-sur-Marne,94,750000,4,2,90,469,0,-1,False,False,False,False,True,True,False,False,False,False,False,True,True,True,False,True,True
+79,Maison,Boulogne-Billancourt,92,3790000,12,6,447,376,8479,-1,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False
+80,Appartement,Paris 14e Arrondissement,75,548500,2,1,50,0,10970,-1,True,True,False,False,True,True,True,True,False,False,False,True,False,False,True,False,False
+81,Appartement,Le Pré-Saint-Gervais,93,595000,3,2,70,0,8500,1584,False,False,False,False,True,False,False,True,False,False,True,False,False,False,False,False,False
+82,Appartement,Paris 19e Arrondissement,75,125000,0,0,11,0,0,-1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+83,Appartement,Paris 5e Arrondissement,75,430000,2,1,29,0,14828,-1,True,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+84,Appartement,Paris 7e Arrondissement,75,128000,0,0,9,0,0,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+85,Appartement,Paris 10e Arrondissement,75,1190000,4,2,86,0,13837,-1,False,False,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+86,Appartement,Paris 19e Arrondissement,75,490000,2,1,47,0,10426,-1,False,False,True,False,True,True,False,False,False,False,False,False,False,True,True,False,False
+87,Maison,Drancy,93,490000,9,7,286,240,1713,-1,False,False,True,False,True,True,False,False,False,True,True,True,True,False,False,False,True
+88,Appartement,Cachan,94,159000,0,0,27,0,5889,-1,True,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False
+89,Maison,Bazainville,78,455000,6,5,140,565,3250,1150,True,False,True,False,True,False,True,True,False,False,False,False,False,False,False,False,True
+90,Appartement,Paris 11e Arrondissement,75,429000,2,1,42,0,10214,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+91,Appartement,Paris 18e Arrondissement,75,1185000,4,2,95,0,0,-1,False,False,False,False,True,True,False,True,True,False,False,False,False,False,True,False,True
+92,Appartement,Montreuil,93,799000,5,3,108,0,7398,1924,True,False,False,False,True,False,False,False,False,True,True,True,False,False,True,False,False
+93,Maison,Antony,92,1390000,7,5,140,240,9929,-1,False,False,True,False,True,False,False,True,True,False,False,True,True,False,False,False,True
+94,Appartement,Nogent-sur-Marne,94,480000,3,2,59,0,8136,-1,False,False,True,False,True,False,False,False,True,False,False,False,False,True,False,False,False
+95,Appartement,Fresnes,94,259000,4,2,64,0,4047,-1,False,True,False,False,True,False,True,True,False,True,False,False,False,False,False,False,False
+96,Appartement,Paris 6e Arrondissement,75,965000,2,1,69,0,13986,-1,False,False,False,False,True,True,True,False,False,False,False,True,False,True,False,False,True
+97,Appartement,Paris 12e Arrondissement,75,191000,0,0,20,0,9550,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+98,Appartement,Paris 16e Arrondissement,75,957000,4,2,74,0,12932,1091,True,True,False,False,True,True,True,False,False,False,True,False,False,True,True,False,False
+99,Appartement,Chatou,78,675000,4,3,99,0,6818,-1,False,False,False,False,True,True,False,False,False,True,True,False,False,False,False,False,False
+100,Appartement,Levallois-Perret,92,1120000,5,3,101,0,11089,-1,False,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True,True
+101,Appartement,Fresnes,94,269000,3,2,68,0,3956,1570,False,True,False,False,True,True,True,False,True,False,True,False,False,False,False,False,False
+102,Appartement,Ablon-sur-Seine,94,198000,4,3,74,0,2676,1200,False,False,False,True,True,False,False,False,True,False,False,False,False,False,False,False,False
+103,Maison,Drancy,93,490000,9,7,286,240,1713,-1,False,False,True,False,True,True,False,False,False,True,True,True,True,False,False,False,True
+104,Appartement,Vitry-sur-Seine,94,350000,4,3,86,0,0,1479,False,True,False,False,True,True,True,True,True,False,False,True,False,False,True,False,False
+105,Appartement,Paris 20e Arrondissement,75,695000,3,2,68,0,10221,-1,False,False,False,False,True,True,False,True,False,False,False,False,False,False,False,False,False
+106,Maison,Louveciennes,78,1550000,8,5,226,1,6858,-1,False,False,False,False,True,True,False,False,False,False,False,True,True,True,False,True,False
+107,Maison,Savigny-sur-Orge,91,460000,6,4,180,715,2556,-1,True,False,False,True,True,False,False,False,False,False,True,True,True,False,False,False,False
+108,Appartement,Boulogne-Billancourt,92,143000,0,0,10,0,14300,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+109,Maison,Gournay-sur-Marne,93,645000,6,4,145,480,4448,-1,True,False,False,True,True,True,False,False,False,True,False,False,False,True,False,True,False
+110,Appartement,Saint-Maurice,94,399000,3,2,57,0,7000,-1,False,False,False,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+111,Appartement,Paris 13e Arrondissement,75,550000,3,2,61,0,9016,2021932,False,True,True,False,True,True,True,False,False,True,False,False,False,True,True,False,True
+112,Appartement,Paris 18e Arrondissement,75,274000,0,0,23,0,11913,250,False,False,False,False,True,True,True,True,False,False,False,False,False,False,True,False,False
+113,Maison,Les Pavillons-sous-Bois,93,530000,7,6,180,470,2944,1680,False,False,False,False,True,False,True,True,False,False,False,True,False,True,False,False,False
+114,Maison,Le Perreux-sur-Marne,94,850000,7,6,170,100,5000,-1,False,False,False,False,True,True,True,False,False,False,False,True,True,False,False,False,True
+115,Maison,Clichy-sous-Bois,93,485000,6,5,229,389,2118,1867,False,False,False,False,True,False,True,True,True,False,False,True,False,True,False,True,True
+116,Appartement,Chaville,92,340000,4,3,63,0,5397,-1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+117,Appartement,Paris 20e Arrondissement,75,360000,0,0,35,0,0,-1,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False
+118,Appartement,Bobigny,93,150000,0,0,35,0,4286,650,False,False,False,False,True,False,False,False,False,True,True,False,False,False,False,False,False
+119,Maison,Andilly,95,550000,7,5,162,1,3395,1184,True,False,False,False,True,False,False,True,False,False,False,True,False,True,False,False,True
+120,Maison,Le Vésinet,78,670000,4,3,75,99,0,-1,False,False,False,False,True,False,True,True,False,False,False,False,False,False,False,True,False
+121,Appartement,Champigny-sur-Marne,94,395000,4,2,75,0,0,-1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,True
+122,Appartement,Paris 9e Arrondissement,75,425000,2,1,33,0,12879,-1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+123,Maison,Morsang-sur-Seine,91,374000,5,3,100,136,3740,-1,False,False,False,False,True,True,False,True,False,False,False,False,False,True,False,False,False
+124,Appartement,Massy,91,390000,4,3,90,0,4333,-1,False,False,False,False,True,True,False,False,True,False,True,False,False,False,False,False,False
+125,Maison,Rueil-Malmaison,92,1345000,8,5,182,536,7390,-1,False,False,False,False,True,True,False,False,False,False,False,True,True,False,False,False,False
+126,Appartement,Boisemont,95,216000,3,0,60,0,0,1278,True,False,True,True,True,False,True,False,False,False,True,False,False,False,False,False,False
+127,Maison,Bièvres,91,660000,6,5,117,296,0,-1,True,False,False,False,True,False,True,True,False,True,False,True,False,False,False,True,True
+128,Appartement,Stains,93,255000,4,3,78,0,0,-1,False,False,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False
+129,Appartement,Vincennes,94,355000,2,1,44,0,8068,800,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False
+130,Appartement,Paris 11e Arrondissement,75,560000,2,1,40,0,14000,-1,False,False,False,False,True,True,False,True,True,False,False,False,False,False,False,False,False
+131,Appartement,Poissy,78,410000,6,4,105,0,3905,1761,False,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False
+132,Appartement,Châtenay-Malabry,92,1380000,7,5,191,0,7225,-1,False,False,False,False,True,False,False,False,False,True,True,True,False,False,False,True,True
+133,Appartement,Le Raincy,93,256000,3,2,52,0,0,-1,True,False,False,False,True,False,False,False,False,True,False,False,False,False,False,True,False
+134,Appartement,Le Perreux-sur-Marne,94,490000,3,2,70,0,7000,-1,False,False,False,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+135,Maison,Enghien-les-Bains,95,1820000,11,7,315,637,5778,-1,False,False,False,False,True,True,False,False,True,False,True,True,False,True,False,False,True
+136,Appartement,Paris 16e Arrondissement,75,500000,0,0,33,0,15152,-1,True,False,False,False,True,False,False,False,True,False,False,False,False,True,False,False,False
+137,Appartement,Clairefontaine-en-Yvelines,78,259750,3,2,71,0,3658,-1,False,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,False
+138,Appartement,Vanves,92,499000,4,2,70,0,7129,-1,False,False,False,False,True,True,False,False,True,False,True,True,False,False,False,False,False
+139,Maison,Paris 20e Arrondissement,75,820000,4,3,96,0,8542,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,True,True,False,False
+140,Appartement,Paris 14e Arrondissement,75,750000,3,2,65,0,11538,-1,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,True,False
+141,Appartement,Montrouge,92,338000,2,1,42,0,8048,430,False,True,False,False,True,True,True,True,True,False,False,False,False,False,False,False,False
+142,Appartement,Paris 5e Arrondissement,75,454000,2,1,35,0,12971,-1,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False,True
+143,Appartement,Paris 13e Arrondissement,75,619000,3,2,62,0,0,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+144,Appartement,Paris 14e Arrondissement,75,835000,4,3,82,0,10183,-1,False,False,False,False,True,True,False,False,True,False,False,False,False,False,True,False,False
+145,Appartement,Paris 16e Arrondissement,75,200000,0,0,17,0,0,-1,False,False,True,False,True,False,False,False,False,False,False,False,False,False,True,True,False
+146,Appartement,Paris 18e Arrondissement,75,385000,2,1,38,0,10132,381,False,False,False,True,True,False,True,True,False,False,False,False,False,False,True,False,False
+147,Appartement,Colombes,92,430000,4,3,89,0,4831,-1,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+148,Maison,Argenteuil,95,550000,8,6,135,725,0,-1,False,False,False,False,True,True,False,True,False,False,False,True,False,True,False,True,True
+149,Appartement,Paris 14e Arrondissement,75,548500,2,1,50,0,10970,-1,True,True,False,False,True,True,True,True,False,False,False,True,False,False,True,False,False
+150,Appartement,Paris 15e Arrondissement,75,820000,3,2,68,0,12059,-1,False,False,False,False,True,True,False,False,True,False,False,True,False,True,False,False,True
+151,Maison,Draveil,91,335000,4,3,107,125,3131,-1,True,False,False,True,True,False,False,False,False,False,False,True,False,True,False,True,False
+152,Appartement,Saint-Maur-des-Fossés,94,340000,3,2,58,0,5862,-1,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+153,Appartement,Paris 18e Arrondissement,75,1185000,4,2,95,0,0,-1,False,False,False,False,True,True,False,True,True,False,False,False,False,False,True,False,True
+154,Appartement,Paris 18e Arrondissement,75,430000,2,1,40,0,10750,-1,False,False,False,False,False,False,False,True,False,True,False,False,False,True,True,False,False
+155,Appartement,Crespières,78,238000,3,2,65,0,3662,-1,False,False,False,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+156,Maison,Méry-sur-Oise,95,390000,5,3,104,593,3750,1900,False,False,False,False,True,True,False,True,False,False,False,True,True,False,False,False,True
+157,Appartement,Paris 15e Arrondissement,75,399000,2,1,38,0,10500,-1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,False,False,False
+158,Appartement,Paris 17e Arrondissement,75,510000,3,2,45,0,11333,-1,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,True,False
+159,Maison,Courtry,77,540000,7,4,130,641,4154,-1,False,False,False,False,True,True,False,False,False,False,True,True,True,False,False,False,True
+160,Appartement,Gometz-le-Châtel,91,172000,4,3,77,0,2234,1167,False,True,True,False,True,True,True,True,True,False,True,False,False,False,False,False,False
+161,Appartement,Montrouge,92,275000,0,0,31,0,8871,-1,True,False,False,False,True,True,True,False,True,True,False,False,False,False,False,False,False
+162,Appartement,Alfortville,94,468000,3,2,90,0,5200,20212018,False,False,False,False,True,False,False,False,True,False,False,True,False,True,True,False,True
+163,Maison,Montmorency,95,689000,7,5,152,403,4533,-1,False,False,False,False,True,True,False,False,False,True,True,True,True,False,False,False,True
+164,Appartement,Bernes-sur-Oise,95,225000,3,2,56,0,4018,-1,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False
+165,Appartement,Paris 18e Arrondissement,75,430000,3,2,44,0,9773,-1,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False
+166,Appartement,Saint-Maur-des-Fossés,94,439000,3,2,66,0,6652,1206,False,False,False,False,True,True,False,False,True,False,True,False,False,False,False,False,False
+167,Appartement,Paris 13e Arrondissement,75,488000,4,3,77,0,0,951,False,True,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False
+168,Appartement,Paris 13e Arrondissement,75,298000,0,0,34,0,0,-1,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False,False
+169,Appartement,Vanves,92,235000,2,1,32,0,7344,-1,False,False,True,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+170,Maison,Créteil,94,365000,3,2,64,168,5703,-1,False,False,True,False,True,False,False,False,False,False,False,True,True,False,False,True,True
+171,Appartement,Alfortville,94,235000,2,1,40,0,0,-1,False,False,False,False,True,True,False,True,False,True,True,False,False,False,True,False,False
+172,Appartement,Paris 11e Arrondissement,75,299000,2,1,28,0,10679,-1,False,False,False,False,True,False,True,False,False,False,False,True,False,False,True,False,False
+173,Appartement,Paris 11e Arrondissement,75,850000,3,2,69,0,12319,870,False,False,False,False,False,False,True,True,False,True,False,False,False,True,False,False,False
+174,Appartement,Mareuil-lès-Meaux,77,220000,4,3,84,0,2619,-1,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+175,Appartement,Ivry-sur-Seine,94,449000,3,2,69,0,6507,-1,True,False,True,False,True,False,False,False,True,True,True,False,False,True,False,False,False
+176,Appartement,Puteaux,92,325000,2,1,42,0,7738,-1,True,True,False,False,True,True,True,True,False,True,False,True,False,False,False,False,False
+177,Appartement,Paris 11e Arrondissement,75,749000,3,2,65,0,11523,-1,False,False,False,False,True,True,False,False,False,True,True,False,False,True,True,False,False
+178,Maison,Cormeilles-en-Parisis,95,850000,6,5,152,462,5592,-1,False,False,False,False,True,False,True,False,False,True,False,False,False,True,False,True,True
+179,Appartement,Chennevières-lès-Louvres,95,265000,5,3,95,0,2789,-1,False,False,False,False,True,False,False,False,True,True,False,False,False,True,False,False,True
+180,Maison,Champagne-sur-Oise,95,418000,5,4,153,337,2732,-1,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+181,Appartement,Paris 5e Arrondissement,75,1250000,6,4,108,0,11574,-1,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,True,True
+182,Appartement,Boissettes,77,149000,4,3,86,0,0,-1,False,False,False,False,True,True,False,False,True,False,True,False,False,False,False,False,False
+183,Appartement,Stains,93,277000,5,4,100,0,2770,-1,True,False,False,False,True,False,False,False,True,True,False,False,False,True,True,True,True
+184,Appartement,Le Port-Marly,78,265000,2,1,45,0,5889,-1,True,False,False,False,True,False,False,False,True,False,True,False,False,False,False,False,True
+185,Appartement,Paris 19e Arrondissement,75,500000,4,3,82,0,6098,1012,False,False,False,False,True,True,True,False,False,False,False,False,False,False,True,False,False
+186,Appartement,Versailles,78,540000,4,3,94,0,5745,-1,False,False,False,False,True,True,False,True,True,False,False,False,False,True,False,False,False
+187,Maison,Chatou,78,960000,6,4,132,450,7273,-1,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+188,Appartement,Paris 10e Arrondissement,75,380000,2,1,34,0,11176,328,False,False,False,False,False,True,True,True,False,False,False,False,False,False,True,False,False
+189,Maison,Bonnelles,78,640000,6,4,180,3,3556,1400,False,False,False,False,True,False,True,True,False,False,False,True,False,True,False,False,False
+190,Appartement,Plaisir,78,225000,2,1,54,0,4167,-1,False,False,False,True,True,False,False,False,True,False,True,True,False,False,False,False,False
+191,Appartement,Chaville,92,340000,4,3,63,0,5397,-1,False,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+192,Appartement,Saint-Michel-sur-Orge,91,174000,3,2,67,0,2597,-1,False,False,False,False,True,True,False,True,True,False,True,False,False,False,False,False,False
+193,Appartement,Rueil-Malmaison,92,670000,4,3,97,0,6907,-1,False,False,False,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+194,Appartement,Asnières-sur-Seine,92,498000,3,2,64,0,0,1000,False,False,False,False,True,True,True,False,True,False,False,False,False,False,False,False,False
+195,Maison,Montreuil,93,600000,4,2,79,0,7595,1431,False,False,False,False,True,False,False,False,False,True,False,False,False,False,True,False,True
+196,Appartement,Saint-Cloud,92,444000,3,2,58,0,0,20211105,True,False,False,False,True,True,True,False,True,True,False,False,True,True,False,False,False
+197,Appartement,Paris 15e Arrondissement,75,650000,2,1,52,0,12500,1050,False,False,True,False,True,False,False,False,True,False,False,False,False,False,False,False,False
+198,Appartement,Boisemont,95,249000,4,3,82,0,3037,-1,False,True,False,False,True,True,True,False,False,True,True,False,False,False,False,False,False
+199,Maison,Beynes,78,430000,7,5,132,432,3258,-1,False,False,False,False,True,False,True,True,False,False,False,True,True,True,False,True,True
+200,Maison,Nanterre,92,935000,10,6,203,207,4606,-1,False,False,False,False,True,True,True,False,False,False,False,False,True,False,False,False,False
+201,Appartement,Trappes,78,214000,3,2,65,0,3292,1300,True,False,False,False,True,False,False,False,True,True,True,False,False,False,False,False,False
+202,Appartement,Paris 15e Arrondissement,75,890000,4,2,81,0,0,1100,False,False,False,False,True,False,True,False,True,True,False,False,False,False,True,False,False
+203,Appartement,Paris 16e Arrondissement,75,66000,0,0,6,0,0,-1,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+204,Appartement,Paris 18e Arrondissement,75,145000,0,0,16,0,0,-1,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+205,Maison,Adainville,78,719000,7,5,223,2,3224,-1,True,False,False,False,True,True,False,True,True,False,False,True,False,True,False,True,True
+206,Appartement,Paris 11e Arrondissement,75,599000,3,2,50,0,11980,-1,False,False,False,False,False,False,False,False,False,True,True,True,False,False,True,False,False
+207,Appartement,Paris 18e Arrondissement,75,460000,2,1,48,0,9583,-1,False,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+208,Appartement,Paris 19e Arrondissement,75,225000,0,1,18,0,0,-1,False,False,False,False,True,True,True,True,False,False,False,False,False,False,False,False,False
+209,Maison,Boinvilliers,78,850000,6,4,200,350,4250,-1,False,False,False,False,True,False,False,False,False,False,False,True,True,False,False,False,False
+210,Maison,Neauphle-le-Château,78,649000,8,5,230,300,2822,-1,False,False,False,False,True,True,True,False,False,True,False,True,False,False,False,True,False
+211,Appartement,Ivry-sur-Seine,94,470000,5,4,89,0,5281,2190,True,True,False,False,True,True,True,True,False,True,True,False,False,False,True,False,False
+212,Appartement,Paris 20e Arrondissement,75,390000,2,1,39,0,10000,776,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,False
+213,Appartement,Paris 18e Arrondissement,75,550000,3,2,51,0,10784,-1,False,False,False,False,False,True,False,True,False,True,False,False,False,False,True,False,False
+214,Appartement,Janville-sur-Juine,91,233000,4,3,85,0,0,-1,True,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False,True
+215,Appartement,Montrouge,92,480000,3,2,66,0,0,-1,False,False,False,False,True,True,False,False,False,False,False,False,False,False,True,False,False
+216,Appartement,La Garenne-Colombes,92,500000,3,2,75,0,6667,-1,False,False,False,False,True,False,False,False,True,True,False,True,False,True,False,False,False
+217,Appartement,Courbevoie,92,580000,3,2,82,0,7073,700,False,False,False,False,True,True,False,False,False,True,True,False,False,False,False,False,False
+218,Appartement,Saint-Denis,93,280000,3,2,50,0,5600,800,True,False,False,True,True,False,False,True,False,False,True,False,False,False,True,False,False
+219,Appartement,Vitry-sur-Seine,94,299000,4,2,72,0,4153,1200,True,True,False,True,True,True,True,True,True,False,True,False,False,False,False,False,False
+220,Appartement,Paris 12e Arrondissement,75,358000,2,1,32,0,11188,545,False,False,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+221,Maison,Gometz-la-Ville,91,640000,6,4,115,450,5565,2047,False,False,False,False,True,True,False,False,False,True,False,True,True,False,False,True,True
+222,Appartement,Vincennes,94,800000,4,3,81,0,0,-1,False,False,False,False,True,True,False,True,False,True,False,True,False,True,False,True,False
+223,Appartement,Paris 17e Arrondissement,75,578000,2,1,53,0,0,-1,False,False,False,False,True,True,False,True,False,False,False,False,False,True,True,True,False
+224,Appartement,Créteil,94,280000,4,2,76,0,3684,1630,False,True,False,False,True,True,True,True,False,False,True,False,False,False,False,False,False
+225,Maison,Chennevières-sur-Marne,94,695000,7,5,202,400,3441,-1,False,False,False,False,True,False,False,True,True,False,False,True,True,True,False,False,True
+226,Maison,Andilly,95,550000,6,4,181,341,3039,2400,False,False,False,False,True,False,True,True,True,False,False,True,True,True,False,True,False
+227,Appartement,Paris 16e Arrondissement,75,1180000,3,2,84,0,14048,-1,False,False,False,False,True,True,False,False,True,False,False,False,False,False,False,False,True
+228,Maison,Carnetin,77,360000,8,4,142,293,2535,-1,False,False,False,False,True,False,True,True,False,False,True,True,True,False,False,False,True
+229,Maison,Auvers-Saint-Georges,91,660000,8,6,217,2,0,2100,False,False,False,False,True,False,True,True,False,True,False,True,False,True,False,False,True
+230,Appartement,Saint-Cloud,92,475000,3,2,77,0,6169,-1,False,False,True,False,True,True,False,False,False,True,False,False,False,False,True,False,False
+231,Appartement,Arcueil,94,435000,4,3,95,0,4579,1591,False,False,False,False,True,True,False,False,True,False,True,False,False,False,False,False,False
+232,Appartement,Nogent-sur-Marne,94,380000,2,1,58,0,6552,-1,False,False,False,False,True,True,False,False,False,False,True,False,False,False,False,False,False
+233,Appartement,Argenteuil,95,235000,3,2,55,0,4273,809,True,False,False,False,False,True,True,True,False,False,False,False,False,False,False,False,False
+234,Appartement,Cergy,95,199500,3,1,52,0,3837,-1,False,False,False,False,True,False,True,False,True,False,False,True,False,False,False,False,True
+235,Appartement,Antony,92,370000,4,3,73,0,5068,1090,False,False,False,False,False,True,False,True,True,False,True,False,False,False,False,False,False
+236,Appartement,Étiolles,91,197000,2,1,55,0,3582,-1,True,False,False,False,True,True,True,False,False,False,True,False,False,False,False,False,False
+237,Appartement,Paris 16e Arrondissement,75,180000,0,0,12,0,0,160,False,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+238,Appartement,Paris 18e Arrondissement,75,205000,2,1,19,0,0,-1,True,False,False,False,True,False,False,False,False,False,False,False,False,False,True,False,False
+239,Appartement,Paris 18e Arrondissement,75,310000,2,1,27,0,11481,278,False,False,False,False,False,True,True,True,False,False,False,False,False,False,True,False,False
+240,Appartement,Montrouge,92,338000,2,1,42,0,8048,430,False,True,False,False,True,True,True,True,True,False,False,False,False,False,False,False,False
+241,Appartement,Garches,92,660000,4,3,103,0,6408,-1,False,False,False,True,True,True,False,False,False,False,False,True,False,False,False,False,True
+242,Maison,Maisons-Alfort,94,849000,9,6,156,201,5442,-1,False,False,True,True,True,False,False,False,False,False,True,False,True,False,True,False,False
+243,Appartement,Paris 13e Arrondissement,75,320000,2,1,31,0,0,-1,False,False,False,False,False,False,False,True,False,False,False,False,False,False,True,False,False
+244,Appartement,Paris 15e Arrondissement,75,215000,0,0,16,0,0,-1,False,False,False,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+245,Appartement,Paris 17e Arrondissement,75,299000,0,0,26,0,11500,-1,False,False,False,True,False,False,True,True,False,False,False,False,False,False,True,False,False
+246,Appartement,Paris 20e Arrondissement,75,405000,2,1,44,0,9205,-1,False,True,False,False,True,True,True,True,True,False,False,True,False,False,True,False,False
+247,Appartement,Malakoff,92,430000,4,2,67,0,6418,-1,False,True,False,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+248,Maison,Bussy-Saint-Georges,77,276000,4,2,85,0,3247,-1,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+249,Appartement,Boisemont,95,158000,2,1,35,0,4514,-1,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+250,Maison,Villeparisis,77,449000,7,5,250,274,0,-1,False,False,False,False,True,False,False,False,True,True,False,False,True,True,False,True,True
+251,Appartement,Boissise-le-Roi,77,288000,3,2,85,0,3388,-1,False,False,False,False,True,True,True,True,False,False,False,False,False,True,False,False,True
+252,Maison,Mareil-sur-Mauldre,78,1300000,12,6,325,942,4000,-1,False,False,False,False,True,True,False,True,False,False,False,True,False,True,False,True,False
+253,Appartement,Abbéville-la-Rivière,91,133000,2,1,39,0,3410,-1,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,False,False
+254,Appartement,Juvisy-sur-Orge,91,230000,3,2,66,0,3485,-1,False,False,False,False,True,True,False,True,True,False,True,False,False,False,False,False,False
+255,Appartement,Montrouge,92,949000,4,2,93,0,10204,-1,False,False,False,False,True,False,True,True,True,True,False,False,False,True,True,False,False
+256,Appartement,Montrouge,92,850000,6,4,120,0,7083,-1,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False,True,False
+257,Appartement,Courbevoie,92,525000,3,2,70,0,7500,850,False,False,False,False,True,True,True,True,True,False,True,True,False,False,False,False,False
+258,Maison,Le Raincy,93,376000,3,2,63,0,0,950,False,False,False,False,True,False,True,True,False,False,False,True,False,False,False,False,False
+259,Appartement,Franconville,95,153000,0,0,23,0,6652,-1,False,False,False,False,True,False,False,False,True,False,False,True,False,False,False,False,True
+260,Appartement,Bry-sur-Marne,94,310000,3,2,68,0,4559,-1,True,False,False,False,True,True,False,True,True,False,False,False,False,False,False,False,False
+261,Appartement,Viroflay,78,338000,2,1,46,0,7348,-1,False,False,False,False,True,False,True,False,True,False,False,False,False,False,False,False,False
